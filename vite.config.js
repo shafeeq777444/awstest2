@@ -7,6 +7,6 @@ export default defineConfig({
   server:{
     host:true,
     port:6000,
-    allowedHosts: ['app2.bidly.store', 'app3.bidly.store'],
+    allowedHosts: ['app2.bidly.store','app1.bidly.store', 'app3.bidly.store'],
   }
 })
